@@ -1,0 +1,13 @@
+{
+  "name": "almathkurali",
+  "description": "Ali Almathkur's Claude Code plugins",
+  "owner": { "name": "Ali Almathkur" },
+  "plugins": [
+    {
+      "name": "octo-pet",
+      "source": "./",
+      "description": "Clawd as a desktop pet: see what Claude Code is doing from any window, click to jump back in.",
+      "version": "1.0.0"
+    }
+  ]
+}

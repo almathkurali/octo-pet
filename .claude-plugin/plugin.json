@@ -1,0 +1,10 @@
+{
+  "name": "octo-pet",
+  "version": "1.0.0",
+  "description": "Clawd as a desktop pet for Claude Code: floats above your windows, shows Running / Needs input / Ready / Blocked, click to jump back into the session, quick chat and stop from the pet.",
+  "author": { "name": "Ali Almathkur", "url": "https://github.com/almathkurali" },
+  "homepage": "https://github.com/almathkurali/octo-pet",
+  "repository": "https://github.com/almathkurali/octo-pet",
+  "license": "MIT",
+  "keywords": ["desktop-pet", "clawd", "mod", "macos", "companion"]
+}
